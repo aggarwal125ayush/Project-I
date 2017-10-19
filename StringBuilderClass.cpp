@@ -42,4 +42,5 @@ int main()
 	str.append(abc);
 	str.append(abc);
 	cout<<str.tostring();
+	return 0;
 }
